@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="HibernateProject">
+    <output-path>$PROJECT_DIR$/out/artifacts/HibernateProject</output-path>
+    <root id="root">
+      <element id="archive" name="HibernateProject.war" />
+    </root>
+  </artifact>
+</component>
