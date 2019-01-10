@@ -2,7 +2,10 @@ package com.stackroute.dao;
 
 import com.stackroute.model.User;
 
+import java.util.List;
+
 public interface UserDao {
-    public boolean saveNote(User user);
+    public boolean saveUser(User user);
+    public List<User> getAllUsers();
 
 }
